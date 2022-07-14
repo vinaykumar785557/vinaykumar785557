@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Vinay Kumar</h1>
 <h3 align="center">A passionate web developer from Toronto, Canada</h3>
 
-- 🔭 I’m currently working on **Full Stack Web Development**
+- 🔭 I’m currently working on **Web Development**
 
 - 👨‍💻 All of my projects are available at [https://github.com/vinaykumar785557](https://github.com/vinaykumar785557)
 
